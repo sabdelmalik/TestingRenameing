@@ -1,0 +1,15 @@
+C:\Users\samim\Documents\MyProjects\STEP\Programs\Diacretics\bin\Debug\net6.0\Diacretics.exe
+C:\Users\samim\Documents\MyProjects\STEP\Programs\Diacretics\bin\Debug\net6.0\Diacretics.deps.json
+C:\Users\samim\Documents\MyProjects\STEP\Programs\Diacretics\bin\Debug\net6.0\Diacretics.runtimeconfig.json
+C:\Users\samim\Documents\MyProjects\STEP\Programs\Diacretics\bin\Debug\net6.0\Diacretics.dll
+C:\Users\samim\Documents\MyProjects\STEP\Programs\Diacretics\bin\Debug\net6.0\Diacretics.pdb
+C:\Users\samim\Documents\MyProjects\STEP\Programs\Diacretics\obj\Debug\net6.0\Diacretics.csproj.AssemblyReference.cache
+C:\Users\samim\Documents\MyProjects\STEP\Programs\Diacretics\obj\Debug\net6.0\Diacretics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samim\Documents\MyProjects\STEP\Programs\Diacretics\obj\Debug\net6.0\Diacretics.AssemblyInfoInputs.cache
+C:\Users\samim\Documents\MyProjects\STEP\Programs\Diacretics\obj\Debug\net6.0\Diacretics.AssemblyInfo.cs
+C:\Users\samim\Documents\MyProjects\STEP\Programs\Diacretics\obj\Debug\net6.0\Diacretics.csproj.CoreCompileInputs.cache
+C:\Users\samim\Documents\MyProjects\STEP\Programs\Diacretics\obj\Debug\net6.0\Diacretics.dll
+C:\Users\samim\Documents\MyProjects\STEP\Programs\Diacretics\obj\Debug\net6.0\refint\Diacretics.dll
+C:\Users\samim\Documents\MyProjects\STEP\Programs\Diacretics\obj\Debug\net6.0\Diacretics.pdb
+C:\Users\samim\Documents\MyProjects\STEP\Programs\Diacretics\obj\Debug\net6.0\Diacretics.genruntimeconfig.cache
+C:\Users\samim\Documents\MyProjects\STEP\Programs\Diacretics\obj\Debug\net6.0\ref\Diacretics.dll
